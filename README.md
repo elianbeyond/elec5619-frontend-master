@@ -21,8 +21,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # 
 
-包文件 dist是前端，jar是后端，前后端分离，前端端口8080，代理端口3000（后端）
+前后端分离，前端端口8080，代理端口3000（后端）
 
+注册页面中的adminKey是ELEC5619,check成功后注册的账号就是管理员
 
 
 版本汇总：
